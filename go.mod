@@ -1,4 +1,4 @@
-module physicseditor-box2d
+module physicseditor_box2d
 
 go 1.15
 
