@@ -1,4 +1,4 @@
-module physicseditor_box2d
+module github.com/kerrex/physicseditor_box2d
 
 go 1.15
 
